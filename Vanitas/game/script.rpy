@@ -43,6 +43,7 @@ label konversation:
     $ konversation = True
 
     scene kollegen
+    with zoomin
 
     b "Gespräch mit Kollegen"
     "Kollege" "bla bla bla"
